@@ -1,0 +1,128 @@
+/*---------------- Desktop --------------------- */
+.ch-section-container {
+  padding-left: 155px;
+  padding-right: 155px;
+}
+/* Header */
+.navbar--mt {
+  padding-top: 30px;
+  padding-bottom: 15px;
+}
+.ch-header__logo {
+  width: 150.922px;
+  height: 50.3438px;
+}
+.ch-header__button {
+  border-bottom-color: rgb(99, 172, 252);
+  border-top-color: rgb(99, 172, 252);
+  border-right-color: rgb(99, 172, 252);
+  border-left-color: rgb(99, 172, 252);
+  border-radius: 100px;
+  font-size: 11px;
+  font-weight: 400;
+  height: 45px;
+  line-height: 21px;
+  width: 120px;
+  color: rgb(99, 172, 252) !important;
+  letter-spacing: 1px;
+  border-width: 2px;
+}
+/* Header */
+/* section1 */
+.ch-molc-banner__para {
+  color: rgb(118, 118, 118);
+  font-size: 17px;
+  font-weight: 400px;
+  line-height: 24px;
+  text-align: center;
+  padding-top: 6px;
+}
+/* section1 */
+
+/* section2 */
+.ch-content-table {
+  padding-left: 250px;
+  padding-right: 250px;
+  padding-top: 15px;
+}
+.ch-molc-customer__title {
+  font-size: 35px;
+  font-weight: 800;
+  color: rgb(64, 63, 87);
+  line-height: 35px;
+}
+.img-plane1 {
+  position: absolute;
+  transform: translate(634%, -329%);
+  width: 100px;
+}
+.img-plane2 {
+  position: absolute;
+  transform: translate(758%, 126%);
+  width: 100px;
+}
+.img-headphone {
+  position: absolute;
+  transform: translate(-66%, -55%);
+  width: 374px;
+}
+/* section2 */
+
+/* section3 */
+.ch-atom-h1 {
+  font-size: 54px;
+  font-weight: 800;
+  line-height: 52px;
+}
+/* section3 */
+/* section5 */
+.ch-molc-service-card{
+  height: 195px;
+  width: 207px;
+}
+/* section5 */
+/* SECTION 9 */
+
+.ch-atom-secheight{
+  height: 396.687px !important;
+  width: 331.129px !important;
+}
+/* SECTION 9 */
+/* section 10 */
+.ch-redy{
+ 
+}
+.ch-redy--backgroundcolorimage{
+  background-color: #63acfc;
+  background-image: url("/images/social.png");
+  border-radius: 40px;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+
+
+
+/* section 10 */
+.ch-redy{
+  width: auto;
+  height: 750px;
+}
+.ch-molc-banner__para--maxwidth{
+  max-width: 300px;
+}
+/* section 10 */
+.font-size{
+  font-size: 12px;
+}
+.emoji{
+  display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 .07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
+}
+/*---------------- Desktop --------------------- */

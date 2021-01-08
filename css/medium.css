@@ -1,0 +1,86 @@
+/*---------------- i pad --------------------- */
+    /* Header */
+        .ch-header__logo {
+            width: 170px;
+            height: 52.1875px;
+        }
+    /* Header */
+    /* section1 */
+    .ch-molc-banner__heading{
+      line-height: 57.6px !important;
+      color:rgb(64, 63, 87) ;
+      width: 345px;
+    }
+    .ch-atom-h1 {
+      font-size: 48px;
+      font-weight: 800;
+      line-height: 33px;
+    }
+    /* section1 */
+    
+    /* section2 */
+    .ch-org-customersupport{
+      background-color: rgb(248, 251, 255);
+      border-radius: 40px;
+      height: 409px;
+    }
+    .ch-content-table{
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-top: 15px;
+    }
+    .ch-molc-customer__title{
+      font-size: 35px;
+      font-weight: 800;
+      color: rgb(64, 63, 87);
+      line-height: 31px;
+    }
+    .img-plane1 {
+      position: absolute;
+      transform: translate(414%, -304%);
+      width: 100px;
+    }
+    .img-plane2 {
+      position: absolute;
+      transform: translate(513%, 118%);
+      width: 100px;
+    }
+    .img-headphone{
+      position: absolute;
+      transform: translate(-13%, -44%);
+        width: 358px;
+    }
+    /* section2 */
+    
+    /* section3 */
+    .ch-atom-card-title{
+      font-size: 24px;
+      font-weight: 700;
+    }
+    /* section3 */
+    
+    /* section1 */
+    .ch-org-customersupport--height{
+      width: auto !important;
+      text-align: center;
+    }
+    .ch-atom-body-superpara--sizewidth{
+      align-items: center;
+      margin-left: 20px;
+      
+    }
+    .font-size{
+      font-size: 12px;
+    }
+    .emoji{
+      display: inline !important;
+        border: none !important;
+        box-shadow: none !important;
+        height: 1em !important;
+        width: 1em !important;
+        margin: 0 .07em !important;
+        vertical-align: -0.1em !important;
+        background: none !important;
+        padding: 0 !important;
+    }
+    /*---------------- i pad --------------------- */
