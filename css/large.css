@@ -111,6 +111,10 @@
   max-width: 300px;
 }
 /* section 10 */
+.ch-section11{
+  height: 212px !important;
+  border: 1px solid #63ACFC;
+}
 .font-size{
   font-size: 12px;
 }
@@ -125,4 +129,51 @@
     background: none !important;
     padding: 0 !important;
 }
+/* General */
+.ch-atom-h1--maxwidth{
+  max-width: 322px;
+  
+  
+}
+.ch-atom-h1--maxwidth2{
+  max-width: 480px;
+}
+.ch-atom-h1--maxwidth3{
+  max-width: 428px;
+}
+.ch-atom--maxwidthpara{
+  max-width: 401px;
+}
+.ch-atom--mt{
+  margin-left: 20px;
+}
+.ch-banner-height{
+  height: 440.641px !important;
+}
+.arrow-box-services-new1 {
+  position: relative;
+  top: -203px;
+  right: -71px;
+  width: 110px;
+  margin-left: 200px;
+  transform: rotate(-9deg);
+}
+.arrow-box-services-new2a {
+  position: relative;
+  top: -200px;
+  right: -80px;
+  width: 110px;
+  margin-left: 200px;
+  transform: rotate(19deg)
+
+}
+.ch-atom-cardimage2{
+  width: auto;
+  height: 145px;
+}
+.ch-atom-h2--fonts{
+  font-size: 47px;
+  letter-spacing: -2px;
+}
+/* General */
 /*---------------- Desktop --------------------- */

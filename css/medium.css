@@ -83,4 +83,33 @@
         background: none !important;
         padding: 0 !important;
     }
+    /* general */
+    .arrow-box-services-new1 {
+      position: relative;
+      top: -172px;
+      right: -80px;
+      width: 110px;
+      margin-left: 200px;
+      transform: rotate(19deg);
+    }
+    .arrow-box-services-new2a {
+      position: relative;
+      top: -172px;
+      right: -80px;
+      width: 110px;
+      margin-left: 200px;
+      transform: rotate(-14deg);
+      
+    
+    }
+    .ch-atom-h1--lineheight{
+      line-height: 50px;
+    }
+    /* .ch-arrow-right{
+      transform: translate(110%, 80%) rotate(48deg);
+      height: 36.2188px;
+      width: 100px;
+    } */
+     /* general */
+
     /*---------------- i pad --------------------- */

@@ -215,9 +215,8 @@ li {
   height: 90px;
 }
 .ch-molc-card2__para{
-   
     color: rgb(118, 118, 118);
-    font-size: 12px;
+    font-size: 13px;
     font-weight: 400px;
     line-height: 18px;
     padding-top: 8px;
@@ -298,4 +297,82 @@ li {
 }
 
 /* section 10  */
+.ch-section11{
+  height: 300px !important;
+ 
+}
+.form-control--size{
+  border-radius: 100px;
+  width: 270px;
+  height: 60px;
+  display: inline;
+}
+.ch-molc-banner__button--white{
+color: rgb(99, 172, 252);
+background-color: white;
+border-color: rgb(99, 172, 252);
+}
+.ch-org-customersupport--border-blue{
+  border-top-color: 5px solid rgb(99, 172, 252) !important;
+}
 
+/* General */
+.arrow-box-services-new1mobile {
+  position: relative;
+  top: -154px;
+  right: -176px;
+  width: 113px;
+  transform: rotate(59deg);
+}
+.arrow-box-services-new2mobile {
+  position: relative;
+  top: -132px;
+  right: 157px;
+  width: 113px;
+  transform: rotate(136deg);
+
+}
+.arrow-box-services-new2mobileb{
+
+}
+.ch-molc-banner__para--maxwidth{
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.ch-atom-image{
+  height: auto !important;
+    max-width: 90% !important;
+    margin-top: 0 !important;
+    max-height: 300px;
+}
+
+.ch-atom-h2--fonts{
+ 
+  margin-left: 54px;
+  line-height: 35px;
+} 
+@media only screen and (max-width:500px){
+
+  .ch-atom-h2--fontsmax{
+    max-width: 221px;
+  }
+}
+.carousel-indicators li {
+  border-radius: 50%;
+  width: 8px;
+  height: 8px;
+  background-color:  rgb(99, 172, 252);
+  color: white;
+}
+.ch-card-text--fonts{
+  font-size: 15px;
+    text-align: center;
+    width: 232px;
+    margin: auto;
+    color: #767676
+}
+.ch-atom-secheight{
+  height: 450.687px !important;
+  width: 410.129px !important;
+}
